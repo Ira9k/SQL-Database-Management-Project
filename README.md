@@ -1,0 +1,1 @@
+Designed and implemented a relational database to manage a library system. Created and optimized SQL queries for data retrieval, updates, and reporting. Utilized joins, subqueries, and indexing to enhance query performance and efficiency. Developed stored procedures and triggers to automate routine tasks and enforce data integrity.
